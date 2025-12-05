@@ -1,4 +1,6 @@
 ## Hi there 👋
+[![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=170 align="left" src="https://github-readme-stats.vercel.app/api?username=Bjk8kds&theme=aura" />
 </a>
